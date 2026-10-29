@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-10-29T11:33:13.131Z",
-  "source_files": 1,
   "total_songs": 100,
   "total_artists": 30,
-  "songs_per_file": 500,
-  "files": [
-    {
-      "file": "songs-001.json",
-      "songs": 100
-    }
-  ]
+  "generated_at": "2026-10-29T11:48:58.658Z",
+  "files": 1
 }
